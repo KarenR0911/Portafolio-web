@@ -1392,7 +1392,7 @@ footer p, footer h4{
 }
 
 
-@media (max-width: 350px) {
+@media (max-width: 370px) {
  
   .slide .item:nth-child(1)::before,
   .slide .item:nth-child(2)::before{
