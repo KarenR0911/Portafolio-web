@@ -52,7 +52,7 @@ inputs.forEach((inp) => {
 ScrollReveal({ 
   reset: true,
   distance: '50px',
-  duration: 800,
+  duration: 600,
   delay: 100
 
  });
