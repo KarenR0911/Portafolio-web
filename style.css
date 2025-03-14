@@ -791,7 +791,6 @@ span {
   z-index: 2;
   transform: translateY(-130%);
   border-radius: 10px 10px 0 0;
-  display: none;
 }
 
 .container-1-contact{
@@ -1198,7 +1197,6 @@ footer p, footer h4{
 }
 
 @media (max-width: 630px) {
-  
   .redes-sociales{
     top: 65%;
   }
