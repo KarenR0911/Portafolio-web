@@ -1197,6 +1197,9 @@ footer p, footer h4{
 }
 
 @media (max-width: 630px) {
+  .form-contact::after{
+    display: none;
+  }
   .redes-sociales{
     top: 65%;
   }
