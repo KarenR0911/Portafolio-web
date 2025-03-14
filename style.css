@@ -1089,7 +1089,9 @@ footer p, footer h4{
   opacity: 0;
   display: none;
 }
-
+.form-contact::after{
+  display: none;
+}
 
 }
 
