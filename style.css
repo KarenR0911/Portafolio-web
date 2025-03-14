@@ -791,6 +791,7 @@ span {
   z-index: 2;
   transform: translateY(-130%);
   border-radius: 10px 10px 0 0;
+  display: none;
 }
 
 .container-1-contact{
@@ -1089,9 +1090,7 @@ footer p, footer h4{
   opacity: 0;
   display: none;
 }
-.form-contact::after{
-  display: none;
-}
+
 
 }
 
@@ -1199,9 +1198,7 @@ footer p, footer h4{
 }
 
 @media (max-width: 630px) {
-  .form-contact::after{
-    display: none;
-  }
+  
   .redes-sociales{
     top: 65%;
   }
